@@ -16,6 +16,7 @@ Plaintext
     ├── MACJNMF.m                  # Core Joint NMF algorithm implementation
     ├── BrainNet_Node/             # Assets for macroscopic network visualization
     └── [reconstructed_data].csv   # Inputs generated from the Python module
+
 💻 Requirements & Environment
 To ensure reproducibility, please configure your environment as follows:
 
